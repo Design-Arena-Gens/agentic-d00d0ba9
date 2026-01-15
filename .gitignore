@@ -915,3 +915,7 @@ config/database.yml
 *.zip
 
 # ===== END =====
+
+# Added by cargo
+
+/target
